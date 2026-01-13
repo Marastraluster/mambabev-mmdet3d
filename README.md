@@ -41,7 +41,7 @@
 建议使用 **conda**：
 
 ```bash
-conda create -n mambabev python=3.9 -y
+conda create -n mambabev python=3.8 -y
 conda activate mambabev
 ```
 
